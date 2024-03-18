@@ -15,7 +15,7 @@ public class Demo {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get("https://www.selenium.dev/");
 		System.out.println(driver.getTitle());
-		System.out.println("arun has completed his work");
+		System.out.println("Shankar has completed his work");
 		
 		
 		
